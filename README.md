@@ -1,4 +1,4 @@
-# 💰 Personal Finance Tracker
+#  Personal Finance Tracker
 
 A command-line Personal Finance Tracker built with Python that helps users manage their income, expenses, and monthly budget. The application allows users to record transactions, generate financial reports, and monitor spending while storing all data locally in a JSON file.
 
@@ -183,4 +183,4 @@ Software Developer
 
 ---
 
-⭐ If you found this project helpful, consider giving it a star!
+
